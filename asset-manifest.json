@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reloj-react/static/css/main.33bf8612.chunk.css",
+    "main.js": "/reloj-react/static/js/main.5e2205c3.chunk.js",
+    "main.js.map": "/reloj-react/static/js/main.5e2205c3.chunk.js.map",
+    "runtime-main.js": "/reloj-react/static/js/runtime-main.025cb3e0.js",
+    "runtime-main.js.map": "/reloj-react/static/js/runtime-main.025cb3e0.js.map",
+    "static/js/2.ac09f172.chunk.js": "/reloj-react/static/js/2.ac09f172.chunk.js",
+    "static/js/2.ac09f172.chunk.js.map": "/reloj-react/static/js/2.ac09f172.chunk.js.map",
+    "index.html": "/reloj-react/index.html",
+    "precache-manifest.1a79541be15437525e1b5d913b8fe396.js": "/reloj-react/precache-manifest.1a79541be15437525e1b5d913b8fe396.js",
+    "service-worker.js": "/reloj-react/service-worker.js",
+    "static/css/main.33bf8612.chunk.css.map": "/reloj-react/static/css/main.33bf8612.chunk.css.map",
+    "static/js/2.ac09f172.chunk.js.LICENSE": "/reloj-react/static/js/2.ac09f172.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.025cb3e0.js",
+    "static/js/2.ac09f172.chunk.js",
+    "static/css/main.33bf8612.chunk.css",
+    "static/js/main.5e2205c3.chunk.js"
+  ]
+}
